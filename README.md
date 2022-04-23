@@ -5,4 +5,5 @@ Instructions:
 4. Files ‘Node’, ‘Packet’, ‘SDVN_Controller‘ are separately used to formulate vehicles, data packets, and the controller in SDVN.
 5. File ‘traffic‘ is used to process junctions and roads.
 6. File ‘Routing_table’ is used to generate and record routing policies. It contains fuzzy fusion and weight-based fusion.
+
 The purpose of this project is to realize a hierarchical routing scheme in SDVN towards various messages flowing in vehicular networks. This project uses the SDVN Controller to collect global network information and generate a routing policy set towards various packet transmission service requirements. 
